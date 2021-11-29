@@ -1,0 +1,12 @@
+{
+    "ID": "59133690DB0C46F796A8718360FC8469",
+    "ActionKeyword": "str",
+    "Name": "Stream Url",
+    "Description": "Retrieve direct URL to Stream or Video",
+    "Author": "Garulf",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/Garulf/stream_url",
+    "IcoPath": "./icon.png",
+    "ExecuteFileName": "run.py"
+}
